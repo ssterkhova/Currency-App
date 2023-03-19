@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Моя валюта</string>
+    <string name="result">Результат</string>
+    <string name="calculate">Посчитать</string>
+    <string name="back">Назад</string>
+    <string name="amount_of_euro">Введите сумму в евро</string>
+    <string name="select_currency_to_convert">Выберите валюту для конвертации</string>
+    <string name="convert_your_euro">ПЕРЕВЕДИТЕ ВАШИ ЕВРО</string>
+    <string name="converter">Открыть конвертер</string>
+    <string name="refresh">Обновить</string>
+    <string name="exchange_rate_for_today">Курс валют на сегодня</string>
+</resources>

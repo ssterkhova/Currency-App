@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CurrencyApp</string>
+    <string name="result">Result</string>
+    <string name="calculate">Calculate</string>
+    <string name="back">Back</string>
+    <string name="amount_of_euro">Write the amount in euro</string>
+    <string name="select_currency_to_convert">Select currency to convert</string>
+    <string name="convert_your_euro">CONVERT YOUR EURO</string>
+    <string name="converter">Open converter</string>
+    <string name="refresh">Refresh</string>
+    <string name="exchange_rate_for_today">Exchange rate for today</string>
+    <string name="ammount" translatable="false">10</string>
+    <string name="eurusd" translatable="false">EUR/USD</string>
+    <string name="eurgbp" translatable="false">EUR/GBP</string>
+    <string name="eurnok" translatable="false">EUR/NOK</string>
+    <string name="eursek" translatable="false">EUR/SEK</string>
+    <string name="eurdkk" translatable="false">EUR/DKK</string>
+    <string name="eurjpy" translatable="false">EUR/JPY</string>
+</resources>
